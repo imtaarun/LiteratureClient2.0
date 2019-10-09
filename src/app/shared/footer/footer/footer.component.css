@@ -1,0 +1,15 @@
+.foot {
+    background-color: #666;
+}
+
+.footer-title {
+    padding-left: 12px;
+    font-size: 25px;
+    color: white;
+    padding-top: 12px;
+}
+
+.footer-tag {
+    padding-left: 12px;
+    color: white;
+}
